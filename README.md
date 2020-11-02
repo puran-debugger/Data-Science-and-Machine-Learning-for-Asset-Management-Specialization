@@ -28,3 +28,24 @@ The first course will give you a foundational understanding of modern computatio
 ### Week 3: Robust Estimates for Expected Returns
 
 ### Week 4: Portfolio Optimization in Practice
+
+## Course 3: Python and Machine Learning for Asset Management
+
+### Week 1: Fundamentals of Machine Learning
+
+### Week 2: Machine Learning Techniques for robust estimation of factor models
+
+### Week 3: Machine Learning Techniques for efficient portfolio diversification
+
+### Week 4: Machine Learning Techniques for regime analysis
+
+### Week 5: Identifying Recessions, Cash Regimes and Feature Selection
+
+## Course 4: Python and Machine Learning for Asset Management with Alternative Data Sets
+### Week 1: Consumption
+
+### Week 2: Textual Analysis for Finacial Applications
+
+### Week 3: Processing Corporate Filings
+
+### Week 4: Using Media-Derived Data
